@@ -1,0 +1,9 @@
+langchain-0.3.26
+cassio-0.1.10
+langgraph-0.5.0
+langchain_community-0.3.26
+langchainhub-0.1.21
+langchain_huggingface-0.3.0
+chromadb-1.0.13
+langchain-groq-0.3.4 
+wikipedia-1.4.0
